@@ -4,6 +4,7 @@ Computer Science student at Bennett University </br>
 🧠 Data Science Enthusiast  </br>
 💻 Full-Stack Explorer  </br>
 🔍 Problem Solver </br>
+🌐 Access my portfolio [here](https://naman33.github.io/personal-portfolio/)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=naman33&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
