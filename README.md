@@ -1,7 +1,7 @@
 ## Hi I'm Naman 
 
 Computer Science student at Bennett University </br>
-🧠 Data Science Enthusiast  </br>
+🧠 Data Science and AI/ML Enthusiast  </br>
 💻 Full-Stack Explorer  </br>
 🔍 Problem Solver </br>
 🌐 Access my portfolio [here](https://naman33.github.io/personal-portfolio/)
