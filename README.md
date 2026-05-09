@@ -66,9 +66,9 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [⚡ Energy Demand Forecasting](https://github.com/naman33) | ARIMA time-series model to predict energy demand with seasonality & autocorrelation analysis | Python, ARIMA, Pandas, Matplotlib |
-| [🤖 Reddit Persona Generator](https://github.com/naman33) | Scrapes Reddit activity and builds structured user personas via OpenAI LLM with JSON export | Python, Reddit API, OpenAI |
-| [🛒 E-commerce Automation Testing](https://github.com/naman33) | Selenium POM framework with end-to-end workflow automation and GitHub Actions CI/CD | Python, Selenium, PyTest |
+| [⚡ Energy Demand Forecasting]([https://github.com/naman33](https://github.com/naman33/Energy_Demand_Forecasting)) | ARIMA time-series model to predict energy demand with seasonality & autocorrelation analysis | Python, ARIMA, Pandas, Matplotlib |
+| [🤖 Reddit Persona Generator]([https://github.com/naman33](https://github.com/naman33/reddit-persona-generator)) | Scrapes Reddit activity and builds structured user personas via OpenAI LLM with JSON export | Python, Reddit API, OpenAI |
+| [🛒 E-commerce Automation Testing]([https://github.com/naman33](https://github.com/naman33/ecommerce-automation)) | Selenium POM framework with end-to-end workflow automation and GitHub Actions CI/CD | Python, Selenium, PyTest |
 
 ---
 
